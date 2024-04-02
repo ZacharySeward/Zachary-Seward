@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xx-N00BSl4y3r-xX
+- 👋 Hi, Zachary Seward
 - 👀 I’m interested in Engineering and coding 
 - 🌱 I’m currently learning fluid dynamics and PID algorithms 
 - 💞️ I’m looking to collaborate on simple CFD code as well as other hard mathematics based code 
